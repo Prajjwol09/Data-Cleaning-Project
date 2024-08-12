@@ -7,4 +7,5 @@ The dataset used in this project is a CSV file named "layoffs." This dataset con
 Tools and Technologies:
 
 MySQL: Used for executing queries and managing the database.
+
 MySQL Workbench: The workspace where the project was developed, providing an intuitive environment for managing the database and executing SQL scripts.
